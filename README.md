@@ -56,7 +56,7 @@
 ## 🤝 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/bineth-ellepola-2827a7313/)" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:binethellepola@gmail.com">
